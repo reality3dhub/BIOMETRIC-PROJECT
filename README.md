@@ -77,3 +77,9 @@ Security Measures:
 The system implements robust security measures to safeguard sensitive data, including fingerprint templates and attendance records.
 Encryption protocols may be employed to secure data transmission between components and external systems, such as the WhatsApp API.
 Access controls and authentication mechanisms prevent unauthorized access to the system and its functionalities.
+
+
+https://youtu.be/9_nlaEOjLQ4?si=exWOIoT2Xnkmwl85
+
+YOUTUBE LINK
+
