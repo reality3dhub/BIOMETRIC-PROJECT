@@ -3,6 +3,7 @@ Project Overview: Biometric Attendance System
 The biometric attendance system you're working on utilizes RFID tags to store fingerprint templates. These RFID tags are then used by lecturers to log their attendance. The attendance data is subsequently downloaded into the system, and the results are published to the lecturers' WhatsApp numbers using an API. The project aims to provide an efficient and secure method for tracking attendance using biometric authentication.
 
 Components Used:
+
 3D PRINTER : We made use of 3d printing technology to create the chassis for this project. This entails our vision of supporting home grown and locally manufactured products.
 ESP32: This microcontroller serves as the main control unit for the system. It facilitates communication between various components and processes the attendance data.
 
